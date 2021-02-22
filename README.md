@@ -10,7 +10,7 @@
 7. Each new post has a comment section, where new comments can be added.
 
 ## Technologies Used
-* Android, Kotlin,Viewmodel, Livedata, Retrofit, Room Database
+* Android
 * Kotlin
 * Viewmodel
 * Livedata
