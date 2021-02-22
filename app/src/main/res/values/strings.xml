@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">blog TR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cum fuga in itaque libero magnam minima modi molestias, natus nesciunt nobis nostrum, odit porro quas similique vitae voluptate. Fuga, quae?</string>
+    <string name="enter_blog">Enter Blog</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+</resources>
